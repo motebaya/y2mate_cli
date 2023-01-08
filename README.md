@@ -7,7 +7,7 @@
 ```
                 y2mate.com
            [bash] cli version
-     [author] github.com/valsztrax
+     [author] github.com/motebaya
 
 options:
     -h , --help		show help msg and exit
