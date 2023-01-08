@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 # y2mate.com cli version
 # © Copyright 2022.05
-#   github.com/valzstrax
+#   github.com/motebaya
 # just use alone. don't remove credit.
 
 function check_command(){
@@ -142,7 +142,7 @@ function usage(){
 	cat << docs
                 y2mate.com
            [bash] cli version
-     [author] github.com/valsztrax
+     [author] github.com/motebaya
 
 options:
     -h , --help		show help msg and exit
